@@ -296,7 +296,7 @@
 				DEVELOPMENT_TEAM = 5AKVS66Q63;
 				INFOPLIST_FILE = ejercicioFinal/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.manakle.ejercicioFinal;
+				PRODUCT_BUNDLE_IDENTIFIER = com.manakle.recomendaciones;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -309,7 +309,7 @@
 				DEVELOPMENT_TEAM = 5AKVS66Q63;
 				INFOPLIST_FILE = ejercicioFinal/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.manakle.ejercicioFinal;
+				PRODUCT_BUNDLE_IDENTIFIER = com.manakle.recomendaciones;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
