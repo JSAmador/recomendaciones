@@ -23,7 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		52DEC4B61F4C87D2001650C9 /* ejercicioFinal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ejercicioFinal.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		52DEC4B61F4C87D2001650C9 /* Recomendaciones.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Recomendaciones.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		52DEC4B91F4C87D2001650C9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		52DEC4BB1F4C87D2001650C9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		52DEC4BE1F4C87D2001650C9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -62,7 +62,7 @@
 		52DEC4B71F4C87D2001650C9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				52DEC4B61F4C87D2001650C9 /* ejercicioFinal.app */,
+				52DEC4B61F4C87D2001650C9 /* Recomendaciones.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -91,9 +91,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		52DEC4B51F4C87D2001650C9 /* ejercicioFinal */ = {
+		52DEC4B51F4C87D2001650C9 /* Recomendaciones */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 52DEC4CB1F4C87D2001650C9 /* Build configuration list for PBXNativeTarget "ejercicioFinal" */;
+			buildConfigurationList = 52DEC4CB1F4C87D2001650C9 /* Build configuration list for PBXNativeTarget "Recomendaciones" */;
 			buildPhases = (
 				52DEC4B21F4C87D2001650C9 /* Sources */,
 				52DEC4B31F4C87D2001650C9 /* Frameworks */,
@@ -103,9 +103,9 @@
 			);
 			dependencies = (
 			);
-			name = ejercicioFinal;
+			name = Recomendaciones;
 			productName = ejercicioFinal;
-			productReference = 52DEC4B61F4C87D2001650C9 /* ejercicioFinal.app */;
+			productReference = 52DEC4B61F4C87D2001650C9 /* Recomendaciones.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -125,7 +125,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 52DEC4B11F4C87D2001650C9 /* Build configuration list for PBXProject "ejercicioFinal" */;
+			buildConfigurationList = 52DEC4B11F4C87D2001650C9 /* Build configuration list for PBXProject "Recomendaciones" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -138,7 +138,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				52DEC4B51F4C87D2001650C9 /* ejercicioFinal */,
+				52DEC4B51F4C87D2001650C9 /* Recomendaciones */,
 			);
 		};
 /* End PBXProject section */
@@ -318,7 +318,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		52DEC4B11F4C87D2001650C9 /* Build configuration list for PBXProject "ejercicioFinal" */ = {
+		52DEC4B11F4C87D2001650C9 /* Build configuration list for PBXProject "Recomendaciones" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				52DEC4C91F4C87D2001650C9 /* Debug */,
@@ -327,7 +327,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		52DEC4CB1F4C87D2001650C9 /* Build configuration list for PBXNativeTarget "ejercicioFinal" */ = {
+		52DEC4CB1F4C87D2001650C9 /* Build configuration list for PBXNativeTarget "Recomendaciones" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				52DEC4CC1F4C87D2001650C9 /* Debug */,

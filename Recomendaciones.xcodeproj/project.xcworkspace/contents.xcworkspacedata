@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:ejercicioFinal.xcodeproj">
+      location = "self:/Users/macbookpro/Desktop/IOS/ejercicioFinal/Recomendaciones.xcodeproj">
    </FileRef>
 </Workspace>
